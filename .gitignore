@@ -20,3 +20,5 @@ config.h
 /depcomp
 /install-sh
 /missing
+/Debug
+/.vs/emmcdl.win32/v16
